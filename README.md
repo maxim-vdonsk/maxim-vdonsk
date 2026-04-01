@@ -37,6 +37,7 @@ Python-разработчик из Санкт-Петербурга. Пишу Tel
 
 | Проект | Описание | Стек |
 |--------|----------|------|
+| [python-learning-app](https://github.com/maxim-vdonsk/python-learning-app) | Учебная платформа Python на основе AI с неоновым дизайном в стиле киберпанк. Работает полностью на gpt4free — платные API не требуются | Python, gpt4free, AI |
 | [Chat-GPT-Bot](https://github.com/maxim-vdonsk/Chat-GPT-Bot) | Telegram-бот на GPT-4: текстовые ответы, голосовые сообщения, генерация и анализ изображений, веб-поиск | aiogram, OpenAI API, aiosqlite, edge-tts |
 | [DeepSeek Bot](https://github.com/maxim-vdonsk/deepseek_bot) | AI-бот с анализом загружаемых документов (PDF, DOCX, TXT до 10 МБ) и историей диалога | python-telegram-bot, DeepSeek API, pdfplumber, python-docx |
 | [OpenVPN Bot](https://github.com/maxim-vdonsk/openVPN_telegram_bot) | Бот для продажи VPN-доступа: оплата через YooMoney и FreeKassa, автовыдача конфигов, планировщик | aiogram 3, YooMoney, FreeKassa, APScheduler |
