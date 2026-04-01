@@ -49,15 +49,6 @@ Python-разработчик из Санкт-Петербурга. Пишу Tel
 
 ---
 
-## Статистика
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=maxim-vdonsk&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default&hide=stars" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxim-vdonsk&layout=compact&hide_border=true&theme=default" />
-</p>
-
----
-
 ## Контакты
 
 - Telegram: [@maxim_vdonsk](https://t.me/maxim_vdonsk)
