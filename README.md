@@ -1,6 +1,6 @@
 <div align="center">
 
-# Maxim Vdonsk
+# Шурховецкий Максим
 
 **Fullstack Developer · iOS · Telegram Bots · AI Integrations**
 
